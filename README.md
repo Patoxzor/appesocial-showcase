@@ -51,7 +51,7 @@ work where discrepancies are easy to miss. This tool automates it:
 
 ```mermaid
 flowchart LR
-    ESOCIAL[("📑 eSocial files\nS-5001 / S-5002 / S-5003")] --> APP
+    ESOCIAL[("📑 eSocial files<br/>S-5001 / S-5002 / S-5003")] --> APP
     subgraph APP["🖥️ AppeSocial (Tkinter)"]
         PARSE["Parse + field mapping"]
         RECON["Reconciliation"]
