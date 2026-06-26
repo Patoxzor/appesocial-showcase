@@ -25,9 +25,9 @@ formatted **Excel** report ready for review.
 
 ## 📸 Screenshots
 
-| Main window | Event selection | Excel output |
-|---|---|---|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
+| Main window | Excel output (reconciliation) |
+|---|---|
+| ![Selecting database, eSocial event type (S-5001 INSS) and month](assets/main-window.png) | ![Formatted Excel: eSocial vs payroll-system amounts side by side](assets/excel-output.png) |
 
 ---
 
